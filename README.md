@@ -1,2 +1,3 @@
-# SS_LAB
-System Software Lab Programs and documents
+# UG - SS_LAB
+Undergraduate course - System Software Lab
+Contains Programs and documents
